@@ -5,6 +5,8 @@
 
 This project is a Q&A chatbot application built using **Streamlit** and **Google Generative AI**'s Gemini model. Designed to process and analyze uploaded invoice images, the chatbot allows users to ask questions about invoice details and receive AI-generated responses. By leveraging the **Gemini 1.5 Flash** model, the application provides insightful answers based on the invoice data in real-time, making it a useful tool for automating document processing and understanding.
 
+<img width="438" alt="Screenshot 2024-10-29 at 7 00 04 PM" src="https://github.com/user-attachments/assets/97628c11-b278-420f-b5ac-e6991c26d88e">
+
 ## Features
 
 - **Image Upload**: Users can upload invoice images in JPG, JPEG, or PNG formats.
