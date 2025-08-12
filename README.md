@@ -1,6 +1,8 @@
 
 # Invoice Q&A Chatbot with Gemini AI
 
+**Author:** Trishul Chowdhury  
+
 ## Description
 
 This project is a Q&A chatbot application built using **Streamlit** and **Google Generative AI**'s Gemini model. Designed to process and analyze uploaded invoice images, the chatbot allows users to ask questions about invoice details and receive AI-generated responses. By leveraging the **Gemini 1.5 Flash** model, the application provides insightful answers based on the invoice data in real-time, making it a useful tool for automating document processing and understanding.
